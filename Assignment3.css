@@ -1,0 +1,64 @@
+/*Assignment3.css*/
+.heading{
+font-family: monospace;
+font-size: 300%;
+border: 2px solid Black;
+padding: 30px;
+margin: 50px;
+text-align: center;
+background-color: grey;
+
+}
+
+.block{
+
+border: 3px solid black;
+width: 25%;
+height: 305px;
+float: left;
+}
+
+.block2{
+
+  border: 3px solid black;
+  width: 25%;
+  height: 305px;
+  float: right;
+}
+
+.divblock{
+  border: 3px groove Blue;
+  width: auto;
+  height: auto;
+  padding-bottom: 210px;
+background-color: lightgrey;
+}
+
+.p1{
+text-align: center;
+font-family: monospace;
+
+}
+
+.tab{
+  overflow: hidden;
+  border: 1px solid grey;
+  background-color: grey;
+  text-align: center;
+}
+
+.tab button {
+  background-color: inherit;
+  float: center;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  position:
+
+}
+  .tab button:hover {
+    background-color: white;
+}
